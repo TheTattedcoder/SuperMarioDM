@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=cloud()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ cloud\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ \r\n
+comment1.params=size
+comment1.target=cloud(int)
+comment1.text=\r\n\ Create\ an\ asteroid\ with\ a\ given\ size\ and\ default\ speed.\r\n
+comment2.params=size\ speed
+comment2.target=cloud(int,\ Vector)
+comment2.text=\r\n\ Create\ an\ asteroid\ with\ a\ given\ size\ size\ and\ speed.\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4
